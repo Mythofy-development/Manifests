@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "notes": "Fix version display: show installed vs latest, use NaN for missing, real launcher version\n\n- setCardVersion always renders v<current> → v<latest> with distinct spans\n- Null current version shows vNaN (impossible post-auto-install, but explicit fallback)\n- Launcher card reads actual installed version via @tauri-apps/api/app getVersion()\n- Up-to-date state shows v<current> without arrow (no duplicate text)\n- Add .ver-current CSS class (muted) to distinguish installed from new version\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
-  "pub_date": "2026-06-11T21:25:10Z",
+  "version": "0.2.6",
+  "notes": "Hide install button when not actionable (idle, ok, autoinstall, no-repo states)\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+  "pub_date": "2026-06-11T23:45:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFZIdjlZenFTN1RpU25Ya3d2VUVSS1BOalFpZS9LL1hjOEtrTEVWdkw3U0VpU3czb3lrMHh4SUhoRE9UQ0hRUSs4b1JmTXR3ZENYaTlaL1pvOTdHTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjEzMDg5CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCk03MmRqV2RKTHJWc054L3M5QUdabzN2dVdpbXJwcnFqVkpjendFRkFSK0RUa0FiVkNZc01qalZGVG1rS05FQ3lwdU5CcmIwYjYxTFUxVXdYRWdBSEJBPT0K",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.5/MythofyClient_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFlSMThZT1NUYmpsSUtBNWJ1VGNyZkppcTVUWUdqWktCL2IvbDZzZWpEa0N0SlVVdi9iaHpRbHdkQlErSGtQSDN1dStSSnpxeFJ2anR3R0FVUTNFT3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjIxNTI5CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCjlTclU1OFhjSnYyblNQc0txRzByanlaOGJTQkpycUo1RjVUbldlajlsTVc0MStGZll4bFJGODgvNjVOZzVLN2FQam9wcncyNkNCTGRLUy9ueHU2ZkRRPT0K",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.6/MythofyClient_0.2.0_x64-setup.exe"
     }
   }
 }

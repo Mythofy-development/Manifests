@@ -1,11 +1,11 @@
 {
-  "version": "0.1.9",
+  "version": "0.2.2",
   "notes": "",
-  "pub_date": "2026-06-11T03:59:04Z",
+  "pub_date": "2026-06-11T06:54:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.1.9/MythofyClient_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFpMZEc4R1FDc0c3K2Y3RDBLbjBPZG1MWitrZmpha3lDR1J0MG5jVUd6Q1dvOExwNk91ZjZYdjZzUVo2RERVTEpXTE1Gdm9KejNmYVErckNIRUlzUGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTYwODU4CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlClc1cVQ5ekRuenh3VnlhQ0VZbi8vUGhPS3ZodUhwcXRJajF6VllZaFE3dzRCUUZnZE84N2JtRUpyaTc1TjVFTFk3WHBVU0RiVTlXLy90K0NxSUs4T0FBPT0K",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.2/MythofyClient_0.2.0_x64-setup.exe"
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "version": "0.1.9",
+  "version": "0.2.0",
   "channel": "stable",
-  "pub_date": "2026-06-11T03:48:31Z",
-  "url": "https://github.com/Mythofy-development/Manifests/releases/download/client-1211-v0.1.9/mythofyclient-0.1.0.jar",
-  "sha256": "4d70466355bbd32cbf68899145c3d8c689aa55abf98afdec05c75a978963b89a",
+  "pub_date": "2026-06-11T18:42:04Z",
+  "url": "https://github.com/Mythofy-development/Manifests/releases/download/client-1211-v0.2.0/mythofyclient-0.1.0.jar",
+  "sha256": "6dadfc6500964eec615558b30e3bf166344f6b1cd663867f17bd5d25ac644a98",
   "filename": "mythofyclient-0.1.0.jar",
   "notes": ""
 }

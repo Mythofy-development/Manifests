@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "notes": "",
-  "pub_date": "2026-06-11T03:44:30Z",
+  "pub_date": "2026-06-11T03:59:04Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.1.8/MythofyClient_0.1.0_x64-setup.exe"
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.1.9/MythofyClient_0.1.0_x64-setup.exe"
     }
   }
 }

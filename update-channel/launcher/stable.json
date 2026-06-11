@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "See the full release notes on GitHub: https://github.com/Mythofy-development/MythofyLauncher/releases/tag/v0.1.1",
+  "pub_date": "2026-06-11T00:55:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.1.1/MythofyClient_0.1.0_x64-setup.exe"
+    }
+  }
+}

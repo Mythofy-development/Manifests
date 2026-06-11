@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
-  "notes": "Refactor mod update system: jsDelivr CDN, JAR-based version detection, auto-install on launch\n\n- Switch all manifest fetches from raw.githubusercontent.com to jsDelivr CDN (no rate limits)\n- Replace version.txt tracking with reading fabric.mod.json / mcmod.info directly from JAR\n- Add ensure_client_mod_installed() called before every Minecraft launch (silent, non-fatal)\n- Extract download_and_write_jar() shared helper; remove version.txt write from install flow\n- Updates page: non-active-profile clients show idle, first-install shows AUTO-INSTALLS ON LAUNCH\n- Add getClientIdForMcVersion() JS helper mirroring Rust mc_version_to_client_id\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
-  "pub_date": "2026-06-11T20:28:35Z",
+  "version": "0.2.5",
+  "notes": "Fix version display: show installed vs latest, use NaN for missing, real launcher version\n\n- setCardVersion always renders v<current> → v<latest> with distinct spans\n- Null current version shows vNaN (impossible post-auto-install, but explicit fallback)\n- Launcher card reads actual installed version via @tauri-apps/api/app getVersion()\n- Up-to-date state shows v<current> without arrow (no duplicate text)\n- Add .ver-current CSS class (muted) to distinguish installed from new version\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+  "pub_date": "2026-06-11T21:25:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFlkUUkrcXlqT01sZGlMaE54Y1B3aHpWY1FoNURKVmdTMkljRXdIb2c1WFVFZnlBNmgzdWg3Q1QyaGFmeFhLVDJ2YXYxN1h4dUJPMlJ2RUNPcmNGSVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA5NzA3CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCkVsQWk5ZTUzTFh3bFhQWWhtS3JWWVJWblp3WWRtTS9QTmlNbk5CMW83MFJkK1NZSE00ZGl2Y3F5R0YvaWI0eVJZamg5R0d2WGNXa3lNQUt6YXFSc0N3PT0K",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.4/MythofyClient_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFZIdjlZenFTN1RpU25Ya3d2VUVSS1BOalFpZS9LL1hjOEtrTEVWdkw3U0VpU3czb3lrMHh4SUhoRE9UQ0hRUSs4b1JmTXR3ZENYaTlaL1pvOTdHTVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjEzMDg5CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCk03MmRqV2RKTHJWc054L3M5QUdabzN2dVdpbXJwcnFqVkpjendFRkFSK0RUa0FiVkNZc01qalZGVG1rS05FQ3lwdU5CcmIwYjYxTFUxVXdYRWdBSEJBPT0K",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.5/MythofyClient_0.2.0_x64-setup.exe"
     }
   }
 }

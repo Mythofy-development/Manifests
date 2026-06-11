@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "fix: suppress console on restart, fix first-install status, branded installer\n\n- Replace app.restart() with CREATE_NO_WINDOW spawn so the relaunched\n  binary never flashes a console window, even before Windows reads the\n  PE subsystem flag from the new binary\n- Add windows_subsystem = windows to main.rs for all release builds\n- Add CREATE_NO_WINDOW to Java child process to prevent MC terminal\n- Separate dev/release data dirs via cfg!(debug_assertions)\n- Persist quick-join server slots to file instead of localStorage\n- Branded NSIS installer images (header + sidebar BMPs)\n- Show NOT INSTALLED vs UPDATE AVAILABLE for client mods\n- Release notes generation in workflow\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
-  "pub_date": "2026-06-11T19:05:31Z",
+  "version": "0.2.4",
+  "notes": "Refactor mod update system: jsDelivr CDN, JAR-based version detection, auto-install on launch\n\n- Switch all manifest fetches from raw.githubusercontent.com to jsDelivr CDN (no rate limits)\n- Replace version.txt tracking with reading fabric.mod.json / mcmod.info directly from JAR\n- Add ensure_client_mod_installed() called before every Minecraft launch (silent, non-fatal)\n- Extract download_and_write_jar() shared helper; remove version.txt write from install flow\n- Updates page: non-active-profile clients show idle, first-install shows AUTO-INSTALLS ON LAUNCH\n- Add getClientIdForMcVersion() JS helper mirroring Rust mc_version_to_client_id\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+  "pub_date": "2026-06-11T20:28:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVoR1kyZlVwNW5ZbHlUaGY1ckhQVUo0ZGVEcVRWNDFzQnJOcWR6ZnhrSVB0cFB4VUxVdlFiVlNxaUluOGJlTnAybkRJT21KZW4vTElpK205SERiSkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA0NzIzCWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCkNxZE5VNEZxMzd2elEzVUdwVmF1VGpIaW5FeHVZeUZ1aWZhSDN2bXJ1cGNEOG4vSWcxME5vTkZ5bVlqT0MxOVFRN1doN2puV3kxWlFWZ1lJdlhoUEJBPT0K",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.3/MythofyClient_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFlkUUkrcXlqT01sZGlMaE54Y1B3aHpWY1FoNURKVmdTMkljRXdIb2c1WFVFZnlBNmgzdWg3Q1QyaGFmeFhLVDJ2YXYxN1h4dUJPMlJ2RUNPcmNGSVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA5NzA3CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCkVsQWk5ZTUzTFh3bFhQWWhtS3JWWVJWblp3WWRtTS9QTmlNbk5CMW83MFJkK1NZSE00ZGl2Y3F5R0YvaWI0eVJZamg5R0d2WGNXa3lNQUt6YXFSc0N3PT0K",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.4/MythofyClient_0.2.0_x64-setup.exe"
     }
   }
 }

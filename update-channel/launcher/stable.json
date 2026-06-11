@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "",
-  "pub_date": "2026-06-11T06:54:27Z",
+  "version": "0.2.3",
+  "notes": "fix: suppress console on restart, fix first-install status, branded installer\n\n- Replace app.restart() with CREATE_NO_WINDOW spawn so the relaunched\n  binary never flashes a console window, even before Windows reads the\n  PE subsystem flag from the new binary\n- Add windows_subsystem = windows to main.rs for all release builds\n- Add CREATE_NO_WINDOW to Java child process to prevent MC terminal\n- Separate dev/release data dirs via cfg!(debug_assertions)\n- Persist quick-join server slots to file instead of localStorage\n- Branded NSIS installer images (header + sidebar BMPs)\n- Show NOT INSTALLED vs UPDATE AVAILABLE for client mods\n- Release notes generation in workflow\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+  "pub_date": "2026-06-11T19:05:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFpMZEc4R1FDc0c3K2Y3RDBLbjBPZG1MWitrZmpha3lDR1J0MG5jVUd6Q1dvOExwNk91ZjZYdjZzUVo2RERVTEpXTE1Gdm9KejNmYVErckNIRUlzUGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTYwODU4CWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlClc1cVQ5ekRuenh3VnlhQ0VZbi8vUGhPS3ZodUhwcXRJajF6VllZaFE3dzRCUUZnZE84N2JtRUpyaTc1TjVFTFk3WHBVU0RiVTlXLy90K0NxSUs4T0FBPT0K",
-      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.2/MythofyClient_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVoR1kyZlVwNW5ZbHlUaGY1ckhQVUo0ZGVEcVRWNDFzQnJOcWR6ZnhrSVB0cFB4VUxVdlFiVlNxaUluOGJlTnAybkRJT21KZW4vTElpK205SERiSkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjA0NzIzCWZpbGU6TXl0aG9meUNsaWVudF8wLjIuMF94NjQtc2V0dXAuZXhlCkNxZE5VNEZxMzd2elEzVUdwVmF1VGpIaW5FeHVZeUZ1aWZhSDN2bXJ1cGNEOG4vSWcxME5vTkZ5bVlqT0MxOVFRN1doN2puV3kxWlFWZ1lJdlhoUEJBPT0K",
+      "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-v0.2.3/MythofyClient_0.2.0_x64-setup.exe"
     }
   }
 }

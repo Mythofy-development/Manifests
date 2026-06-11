@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "channel": "stable",
-  "pub_date": "2026-06-11T18:42:04Z",
-  "url": "https://github.com/Mythofy-development/Manifests/releases/download/client-1211-v0.2.0/mythofyclient-0.1.0.jar",
-  "sha256": "6dadfc6500964eec615558b30e3bf166344f6b1cd663867f17bd5d25ac644a98",
-  "filename": "mythofyclient-0.1.0.jar",
-  "notes": ""
+  "pub_date": "2026-06-11T23:39:01Z",
+  "url": "https://github.com/Mythofy-development/Manifests/releases/download/client-1211-v0.2.1/mythofyclient-0.2.1.jar",
+  "sha256": "3562129d167e34c6cec410e4197c43551da8d5069c3230aeb22365daf85e6b57",
+  "filename": "mythofyclient-0.2.1.jar",
+  "notes": "fix: inject tag version into Gradle build so fabric.mod.json matches manifest\n\nWithout -Pmod_version the JAR always embeds gradle.properties's mod_version (0.1.0)\nregardless of the git tag, causing the launcher version check to always mismatch.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>"
 }

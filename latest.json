@@ -1,10 +1,10 @@
 {
-  "version": "0.4.60",
-  "notes": "- chore: bump to 0.4.60\n- fix: gear icon opens settings (with VPN sidebar), Updates gets its own nav link\n",
-  "pub_date": "2026-09-20T06:07:23Z",
+  "version": "0.4.61",
+  "notes": "- fix(root cause): set updater endpoint + re-sign after osslsigncode so Tauri sig matches final binary\n",
+  "pub_date": "2026-09-20T06:14:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGRKS1hsaURiSDJZbVhpcVZvQ3daY0Znd3dLcFFzai9JRTJndk5IN0xCM3loQTlwRTloaFV4MTEwdDRCT2JCMTl6QUVaeThHOEt5dXlPc2ZCSmRpd0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg0NDQxCWZpbGU6TXl0aG9meUNsaWVudF8wLjQuNjBfeDY0LXNldHVwLmV4ZQpxVm5iRklDZDJ0bmhaWWl1VTJSSXFoVDJoak1ON0lqY0dxRDJVTkhiQURSbjZROXBKamR6UmcyREtlTTRidzZCMkNGSDdXTktsVGNzYUduVzFaOFlDZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVxdk5LYzlDckQ3b2pkVXU1YmlLY2pVd0xHZHhFZ0h3TURqbkhKTStJbEo0cHJYd1hFL2YzclpWS1JLUTdUSmYrZWwySkJ6cUVqOWdxdlB4NjhwSnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg0ODk0CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKcWdWNFlRdGF2K2tRRDZ0WVBLeGY2dzdCa0p2NkI5anFGeDJjdXMzdmNablRiQWxMU2hkN25SRnRKWWR6bGZBRnFyY0REYlluV0NueGpHNlNCc2dsQ3c9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

@@ -1,10 +1,10 @@
 {
-  "version": "0.4.58",
-  "notes": "- fix: &&str IntoUrl compile error (pass &str literals directly to .get())\n- fix: update settings-cat-desc per category + VPN description\n",
-  "pub_date": "2026-09-20T05:34:13Z",
+  "version": "0.4.59",
+  "notes": "- fix: JS fallback uses raw.githubusercontent.com (CORS ok), Rust check 10s timeout, VPN tab moved to top of sidebar\n",
+  "pub_date": "2026-09-20T06:00:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFhYazVQSG4wVVptZ0ZEN2FkNU5uOGUwNXlZZWF1SGF6SExQYkw1M2UvMjhueUhVeEE5aGJjbGk1TytteDlKMVZjcTZnRndYSFJ5d2Y0Ump4K0s1aUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODgyNDUxCWZpbGU6TXl0aG9meUNsaWVudF8wLjQuNThfeDY0LXNldHVwLmV4ZQpwanQrY0Z3WVpYT0JxWEp6bUh3NVFhN24zRWR1WjBHcTAvY05Cei9TSXpzYThScHVPSFNGbkNjbTlGVXNQQTNESGRCcmg2VmtBZC9hNDZFTklqc2hCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGRtTGQvb3VZRDlmRHpTZFV0dFV4Z2pxMktjYmVYWnFSdGJaa2N6VHpUNFdlb3IxbTdnSVQwR2RxWXdENVd3eVFJRG5mK3lNMEZuY3BkOFo0UXBkZHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg0MDAwCWZpbGU6TXl0aG9meUNsaWVudF8wLjQuNTlfeDY0LXNldHVwLmV4ZQpnSXNBRUpGTUV1bWJxUHcxMVo2MW9URGFxU3dJS3NIVURWZ2FWYlllK29aUGF2RXkyVDNFcllXQ3JOVE56RTZ1cEpwMktHUmpsMENSeC81cDJSbFJDZz09Cg==",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

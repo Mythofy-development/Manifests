@@ -1,10 +1,10 @@
 {
-  "version": "0.4.61",
-  "notes": "- fix(root cause): set updater endpoint + re-sign after osslsigncode so Tauri sig matches final binary\n",
-  "pub_date": "2026-09-20T06:14:54Z",
+  "version": "0.4.63",
+  "notes": "- fix: remove duplicate let settingsCategory (Vite parse error)\n",
+  "pub_date": "2026-09-20T23:51:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVxdk5LYzlDckQ3b2pkVXU1YmlLY2pVd0xHZHhFZ0h3TURqbkhKTStJbEo0cHJYd1hFL2YzclpWS1JLUTdUSmYrZWwySkJ6cUVqOWdxdlB4NjhwSnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODg0ODk0CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKcWdWNFlRdGF2K2tRRDZ0WVBLeGY2dzdCa0p2NkI5anFGeDJjdXMzdmNablRiQWxMU2hkN25SRnRKWWR6bGZBRnFyY0REYlluV0NueGpHNlNCc2dsQ3c9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVWWlE0N3hEa0gzYUdZRnJLZ3kzNlVkSVNzMy9vMXBUSFhIYzEvZ3NzTGsvZVRFclJmUGN1cmFySDJ3QStRU0VKUm8vMFVoMkRQOXNkZ1MwQXliWGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ4Mjc2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKQ0tUbnR4bzRaZnFFZFRnTWJDaXh5Y2ZLelNDNWZvQmZwbng3TlRMbUFjSGpvcUp2UGYvbk1mbDZDVVRTUUl0Tzh6N2ZDUzJOYUcvNzd5clh4NFdvQWc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

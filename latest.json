@@ -1,10 +1,10 @@
 {
-  "version": "0.4.67",
-  "notes": "- feat: auto-relaunch after in-app install (PS runs NSIS, waits, reopens launcher)\n",
-  "pub_date": "2026-09-21T00:31:50Z",
+  "version": "0.4.68",
+  "notes": "- fix: settings page CSS - flex:1 instead of height:100%, remove padding so sidebar renders\n",
+  "pub_date": "2026-09-21T00:42:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFphZCt4TElBRExHcVM0aDViSXQ1eDVCL0FNdjBRTlo4SlVieGhqM3A4N2lPbmYxL0VxNGcwd2hWQWtDVkMwTXAramdOSmd6UFF1YmFaWkRDaFZDdFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUwNzEwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKTWtmQnBVL2wzOWxTNlZuSEphTk1HV3JQRXA3K08yeVBrN1hnNHozOGhZVkFNYWVMZEhzVmthd1I4aVVTSDlScFJwSDNZb3ZBSHF0ZFlNd2dWbzk0Q1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFlpd1B2TTdzODB2L25XZEdPVzF0UEdwbXg4WmVvRjB5TzA4cmxEV2I5RlJ2RnRnVDBMNllpaWxrbmgrY01JS0Q3ZUZpRTE4bHh6anBrb0tqK1pKNmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUxMzUxCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKanFLZ1pmVjU3Wm9TVFlqZVQxWXFCUEZTZHhRcFo0MTFMMzVxYkhGOGNCY2xKZmlCaHZFbW5LS1oxZUZieVRtMmN1cEwxaXh5c2R5QmhmWlV6ZW1sRFE9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

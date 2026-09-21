@@ -1,10 +1,10 @@
 {
-  "version": "0.4.63",
-  "notes": "- fix: remove duplicate let settingsCategory (Vite parse error)\n",
-  "pub_date": "2026-09-20T23:51:16Z",
+  "version": "0.4.64",
+  "notes": "- perf: JS fetch first for update check (instant), Rust as fallback only\n",
+  "pub_date": "2026-09-21T00:03:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGVWWlE0N3hEa0gzYUdZRnJLZ3kzNlVkSVNzMy9vMXBUSFhIYzEvZ3NzTGsvZVRFclJmUGN1cmFySDJ3QStRU0VKUm8vMFVoMkRQOXNkZ1MwQXliWGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ4Mjc2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKQ0tUbnR4bzRaZnFFZFRnTWJDaXh5Y2ZLelNDNWZvQmZwbng3TlRMbUFjSGpvcUp2UGYvbk1mbDZDVVRTUUl0Tzh6N2ZDUzJOYUcvNzd5clh4NFdvQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGJFbmN4YmZ4bjZBdll3eGxiRHY4MGs1Vkd4cTF4Rk1VeXpla0c3ZFBxdmRUcURxak9pRk5tWjFKK0s3QWpFYlBmbTdjVVVBYUF5NlhLNlgvODVOWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ5MDM0CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKRVlCY0s0cnJ6c3k5UkdVdlpONEN4bEpoOWNEMTZncmZWRTN5MUx0L1p3L3k3VXU1ZHZ4QXVGcXl3eDBFdlBhcW1JKzZQcDNZOVQxZDBKUGFsazNuQVE9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

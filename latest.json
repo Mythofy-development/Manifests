@@ -1,10 +1,10 @@
 {
-  "version": "0.4.66",
-  "notes": "- fix: settings renders VPN panel immediately without blocking on module loads\n",
-  "pub_date": "2026-09-21T00:19:56Z",
+  "version": "0.4.67",
+  "notes": "- feat: auto-relaunch after in-app install (PS runs NSIS, waits, reopens launcher)\n",
+  "pub_date": "2026-09-21T00:31:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFFFeVJMY2VnbUl1aE5Sc0g5OWhXUnpqcGxONjhXVXJ4R09yeHpOdjdsQllZWFhJVVM4cmhJSW5PK2g1RHEwSlh6QVo1NEZuV1FiVS9UL2R3YXRJV3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ5OTk2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKN2RkdGFabWxhQkl4K2JkQjZuSDM1clBtdllHenNjZ2dmdmxQN1MvTnU5ZmFpNXZKUVNZZ2RzV2RRVmZRRUVHaGd3V3NRUGJKYTJnZGcwSXFxSFRNQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFphZCt4TElBRExHcVM0aDViSXQ1eDVCL0FNdjBRTlo4SlVieGhqM3A4N2lPbmYxL0VxNGcwd2hWQWtDVkMwTXAramdOSmd6UFF1YmFaWkRDaFZDdFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUwNzEwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKTWtmQnBVL2wzOWxTNlZuSEphTk1HV3JQRXA3K08yeVBrN1hnNHozOGhZVkFNYWVMZEhzVmthd1I4aVVTSDlScFJwSDNZb3ZBSHF0ZFlNd2dWbzk0Q1E9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

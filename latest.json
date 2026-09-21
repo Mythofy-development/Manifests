@@ -1,10 +1,10 @@
 {
-  "version": "0.4.64",
-  "notes": "- perf: JS fetch first for update check (instant), Rust as fallback only\n",
-  "pub_date": "2026-09-21T00:03:54Z",
+  "version": "0.4.65",
+  "notes": "- fix: use PowerShell Invoke-WebRequest for installer download (handles GitHub CDN redirects)\n",
+  "pub_date": "2026-09-21T00:11:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGJFbmN4YmZ4bjZBdll3eGxiRHY4MGs1Vkd4cTF4Rk1VeXpla0c3ZFBxdmRUcURxak9pRk5tWjFKK0s3QWpFYlBmbTdjVVVBYUF5NlhLNlgvODVOWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ5MDM0CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKRVlCY0s0cnJ6c3k5UkdVdlpONEN4bEpoOWNEMTZncmZWRTN5MUx0L1p3L3k3VXU1ZHZ4QXVGcXl3eDBFdlBhcW1JKzZQcDNZOVQxZDBKUGFsazNuQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGNWS0hBcGh4a2hsdm94ZEtPcGZOb0NvOWhzTzBqb3JYSEI5NTQ0S1paaVo5VHROejUrakN2YytvVlY4cVlKR1R4WHJPZlROMWxBQjlhWk80T1c5T2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ5NDg2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKT1lxamdEWVFLRXV1Q0R0ZHQ1VlJLN0E1bXhSVS9aTFRIcE43b0xDT013d2tXNElGMDMrdU5ud09yT2d5TlRFK3hjazV3N2o5Z01NOS9RSXFMWGN4Q2c9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

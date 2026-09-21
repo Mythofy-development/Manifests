@@ -1,10 +1,10 @@
 {
-  "version": "0.4.68",
-  "notes": "- fix: settings page CSS - flex:1 instead of height:100%, remove padding so sidebar renders\n",
-  "pub_date": "2026-09-21T00:42:31Z",
+  "version": "0.4.69",
+  "notes": "- fix: settings layout uses calc(100vh - 42px) - bulletproof, no flex chain dependency\n",
+  "pub_date": "2026-09-21T01:00:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFlpd1B2TTdzODB2L25XZEdPVzF0UEdwbXg4WmVvRjB5TzA4cmxEV2I5RlJ2RnRnVDBMNllpaWxrbmgrY01JS0Q3ZUZpRTE4bHh6anBrb0tqK1pKNmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUxMzUxCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKanFLZ1pmVjU3Wm9TVFlqZVQxWXFCUEZTZHhRcFo0MTFMMzVxYkhGOGNCY2xKZmlCaHZFbW5LS1oxZUZieVRtMmN1cEwxaXh5c2R5QmhmWlV6ZW1sRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFJzbzVXYUVGOEw3dGdnbEVFb1lKN0JaN3pnMklPTU5RVERnRFY4S1NPK1ZycFF2Nm9iS05FVTBEeFJNSzluUXo3TDk3MkZWK2J5VW9IdlNubnh0WmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTUyNDQ4CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKd3dHQ3QxNDlyQm9oaVQ5N2g3NXkvNSthaVhaaEdoQ3VBN2pjRkh1YmZxNnVIVDBsNzFTL0F2SlFXTll5REJBU3BaVThDSW5tV3dzVHZEbjlZSzFKQ1E9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

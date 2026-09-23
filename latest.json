@@ -1,10 +1,10 @@
 {
-  "version": "0.4.71",
-  "notes": "- fix: VPN-tolerant networking — retry auth, drop stale connections, IPv4, network check, correct split-tunnel paths\n",
-  "pub_date": "2026-09-23T02:38:14Z",
+  "version": "0.4.72",
+  "notes": "- fix: robust launcher updater — fresh connection, direct download w/ progress, PowerShell fallback with real errors, installer verification\n",
+  "pub_date": "2026-09-23T03:08:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFdnOWVUMk9uTGlDeGt0bk1PNjg5T1ZrU1c4dHhkbzJ2R084TVpKNmJ0SmtGME5MdzNmaTlYNVF5OEdsRm1oSE9Wa2dLRjZYWFg2SVhISDhkaTJBc3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMxMDk0CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKWHkvTGxqOG05V1hvRlYxaVRVVkIraGxTck9vaklQT3dtVFdvVGZaWEdhRDAvVUFybHd1M1NsR1BTdFdyMU1lTVh4Q3BwaXRTZStYc2w3aXhSaGNyQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGJOT0lWRm5yZGlLalVaWWJyQW1SMG9mL21tNUJ1NWhoeXZaMlNnSkpTaG1VUzRtZ01ncXN0Ym11ZEZKOUJrMThxQ256L2lWTHFWVUtYL1RZVDFjUWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMyOTE4CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKYzRNZys4S2YyWHBhRktnUEZERm1DdVVEcysrWkg1dk5iWnpTWTB4ZVpZK1hIdW1aQmN3QWhIYUgvMi9McVdtcTV4aVhQOWhQVEpyZk84MjBaRUhOQWc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

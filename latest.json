@@ -1,10 +1,10 @@
 {
-  "version": "0.4.72",
-  "notes": "- fix: robust launcher updater — fresh connection, direct download w/ progress, PowerShell fallback with real errors, installer verification\n",
-  "pub_date": "2026-09-23T03:08:39Z",
+  "version": "0.4.73",
+  "notes": "- fix: repair garbled UI symbols (X buttons, arrows, icons) from bad encoding\n",
+  "pub_date": "2026-09-28T03:12:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGJOT0lWRm5yZGlLalVaWWJyQW1SMG9mL21tNUJ1NWhoeXZaMlNnSkpTaG1VUzRtZ01ncXN0Ym11ZEZKOUJrMThxQ256L2lWTHFWVUtYL1RZVDFjUWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMyOTE4CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKYzRNZys4S2YyWHBhRktnUEZERm1DdVVEcysrWkg1dk5iWnpTWTB4ZVpZK1hIdW1aQmN3QWhIYUgvMi9McVdtcTV4aVhQOWhQVEpyZk84MjBaRUhOQWc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFgwZTl3aXlFMXdUdFBmdEdReFE3QU1leFY3dnBCNVJtcFZ4MnBjYis3V3Nnd2RnSExTRS82OUNaQnNZVWdqQ3JPWVpYRDFGakM4by84Qlk2QmtFSWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTY1MTUwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKeFlzdnhCZnhHWTFnRW9xbjJMdll6U3ltRW5IVjNmdEd4WUJteGd2ekI4cHUyempRZityYkx0NEZLUklUVGpjeGRFOGs5Y3U4Z1BNeVhGNmttZ0Y0RHc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

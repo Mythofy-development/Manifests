@@ -1,10 +1,10 @@
 {
-  "version": "0.4.77",
-  "notes": "- fix: IPv4-only via DNS resolver instead of socket bind (fixes os error 10013)\n",
-  "pub_date": "2026-09-30T16:44:21Z",
+  "version": "0.4.79",
+  "notes": "- feat: route all saved servers (quick-join + every profile's multiplayer list) around the VPN\n",
+  "pub_date": "2026-09-30T17:18:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGUzM0NDVnkxNmEway82dTUyaU9zWFJ1TnBvcVY5VFZNZkd3OU1zY2R4Y2dWT1YvTjJpUmgrMEo5YkJBOFVTQ3BLd2w5TzlYdHdxb2hMa3oxd1c1eEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg2NjYwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKMHZMYTJkVUlZMDk5UXZJWVZ3M2YrY1d3TEhuTW9YeFdpVGZZYUxoakxRaGJPYlFWUFlITDZ5aTJ6emFydU11UGJ6QzByTm9HYWlLMG90aDRFTnFaQnc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFkzUG9wM08wNlo3L25iNHZCR2JMR1BEbndka0RhL2E3alQ1elpGeVZDTXhyZjB3SUlCc3l2OXhFaGdLY0dtbW5XeWxHQTFCODZxOWI2V2sxMk9NZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg4NzE1CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKL3FNMVdtRENvSnNnYlhESFRpaWJNSDdEVGRjb05JRkF2VS9QZTZDTmQvbjMvWEN2bFY4dmtCSWswZVkxNGtFaWovdEN0dFpmZXJVanJKVjZXcHdwQVE9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

@@ -1,10 +1,10 @@
 {
-  "version": "0.4.76",
-  "notes": "- feat: server IP-range lookup for VPN IP-based split tunneling; SRV-aware game check\n",
-  "pub_date": "2026-09-30T05:25:02Z",
+  "version": "0.4.77",
+  "notes": "- fix: IPv4-only via DNS resolver instead of socket bind (fixes os error 10013)\n",
+  "pub_date": "2026-09-30T16:44:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFJxSmxnbW4xdy9uVC9McTVZbk1xenVUUjNETmlBM2xxREFDdk5DQ2dnK3JoZDNmemxoTEdYS094VktWZnArWkF5UjRpSlB1dEVsODhJNzdFb1YwMmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzQ1OTAyCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKNFlVQWFaLzRIQnlWYUpCYU15cHdzRlNsQkZkN1VVV0w2VDQ1TUZvWFEvQWNVZFVxSkNNbEVCOXg2dU9pVEdBaVNRTkdPMDdUUHZkcEZxK1J3S1B2RHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGUzM0NDVnkxNmEway82dTUyaU9zWFJ1TnBvcVY5VFZNZkd3OU1zY2R4Y2dWT1YvTjJpUmgrMEo5YkJBOFVTQ3BLd2w5TzlYdHdxb2hMa3oxd1c1eEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg2NjYwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKMHZMYTJkVUlZMDk5UXZJWVZ3M2YrY1d3TEhuTW9YeFdpVGZZYUxoakxRaGJPYlFWUFlITDZ5aTJ6emFydU11UGJ6QzByTm9HYWlLMG90aDRFTnFaQnc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

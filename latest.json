@@ -1,10 +1,10 @@
 {
-  "version": "0.4.73",
-  "notes": "- fix: repair garbled UI symbols (X buttons, arrows, icons) from bad encoding\n",
-  "pub_date": "2026-09-28T03:12:30Z",
+  "version": "0.4.74",
+  "notes": "- feat: test connections as the game process, plus sign-in fallback\n",
+  "pub_date": "2026-09-30T01:56:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFgwZTl3aXlFMXdUdFBmdEdReFE3QU1leFY3dnBCNVJtcFZ4MnBjYis3V3Nnd2RnSExTRS82OUNaQnNZVWdqQ3JPWVpYRDFGakM4by84Qlk2QmtFSWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTY1MTUwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKeFlzdnhCZnhHWTFnRW9xbjJMdll6U3ltRW5IVjNmdEd4WUJteGd2ekI4cHUyempRZityYkx0NEZLUklUVGpjeGRFOGs5Y3U4Z1BNeVhGNmttZ0Y0RHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFdGY2lqblQvazNFWW9aWGJMbks5VnljamhLaVI5QXdlV3A5N1VyVFR5UEROOEpzUkVTczNxVGhmeGNGbjBLd3ZmMUdFamdmRTFqVkYxWUNORldMbVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzMzMzkzCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKQkNycDhlZEFOYkpjTHU4dzhEbC9kcmQ4UllLcWVjc1dqMzdxamhOZkJZZWl4dEFoYStteU1xanczTFkwRzFYUW1TczkrNVVSK2FRS29ZMUFRNDY4Qmc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

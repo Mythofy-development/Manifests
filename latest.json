@@ -1,10 +1,10 @@
 {
-  "version": "0.4.79",
-  "notes": "- feat: route all saved servers (quick-join + every profile's multiplayer list) around the VPN\n",
-  "pub_date": "2026-09-30T17:18:35Z",
+  "version": "0.4.80",
+  "notes": "- Automatic VPN bypass\n- fix: Proton VPN guidance, non-persistent bypass routes, verify routes in status\n",
+  "pub_date": "2026-10-09T23:37:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFkzUG9wM08wNlo3L25iNHZCR2JMR1BEbndka0RhL2E3alQ1elpGeVZDTXhyZjB3SUlCc3l2OXhFaGdLY0dtbW5XeWxHQTFCODZxOWI2V2sxMk9NZVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzg4NzE1CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKL3FNMVdtRENvSnNnYlhESFRpaWJNSDdEVGRjb05JRkF2VS9QZTZDTmQvbjMvWEN2bFY4dmtCSWswZVkxNGtFaWovdEN0dFpmZXJVanJKVjZXcHdwQVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFhyT0UvT1RJV1NRaUllVDVnTzlCVG85SnROOVlUSGJmelRzM2xlejlDMEFOVUg2bTluNGNzZDY0TXpkMFhGYkUwOERBcnVOck5VSHZJWDB4N1p6NHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg5MDM2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKK21jbUtzUTA4Q1hQRlVHZ21MUE5VK2ZscE9zazhJN2NrRHVDS0Z1MHlZQzB0d1E5ZHBEeEphd0w5MzFpQ0xSSTdxdCtGWU9aZWhDOWRNOThrdVpORFE9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

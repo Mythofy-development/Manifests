@@ -1,0 +1,9 @@
+{
+  "version": "0.6.120",
+  "channel": "stable",
+  "pub_date": "2026-10-12T04:49:15Z",
+  "url": "https://github.com/Mythofy-development/Manifests/releases/download/client-1218-v0.6.120/mythofyclient-0.6.120.jar",
+  "sha256": "3fd4a01ed50094f502279ca8d372ec8e0c08616591fc77419f0f4dac021b5f28",
+  "filename": "mythofyclient-0.6.120.jar",
+  "notes": "Add proper Minecraft 1.21.8 support with dedicated client-1218 build"
+}

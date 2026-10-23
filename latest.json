@@ -1,10 +1,10 @@
 {
-  "version": "0.4.80",
-  "notes": "- Automatic VPN bypass\n- fix: Proton VPN guidance, non-persistent bypass routes, verify routes in status\n",
-  "pub_date": "2026-10-09T23:37:16Z",
+  "version": "0.4.81",
+  "notes": "- Merge pull request #13 from Mythofy-development/fix/updater-manifest-timeout-and-bump\n- fix(net,updater): add curl.exe HTTP fallback, bypass ProtonVPN Java shim blackhole, and bump to v0.4.81\n- Merge pull request #12 from Mythofy-development/feat/profile-icons-and-management\n- feat(profiles): add profile icons, duplication, inline version switching, and renaming\n- fix(frontend): hoist vpnAutoEnabled and isPublicCidr functions to fix TypeError: pm is not a function\n- feat(client): add Minecraft 1.21.8 client-1218 support\n",
+  "pub_date": "2026-10-23T01:42:17Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFhyT0UvT1RJV1NRaUllVDVnTzlCVG85SnROOVlUSGJmelRzM2xlejlDMEFOVUg2bTluNGNzZDY0TXpkMFhGYkUwOERBcnVOck5VSHZJWDB4N1p6NHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg5MDM2CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKK21jbUtzUTA4Q1hQRlVHZ21MUE5VK2ZscE9zazhJN2NrRHVDS0Z1MHlZQzB0d1E5ZHBEeEphd0w5MzFpQ0xSSTdxdCtGWU9aZWhDOWRNOThrdVpORFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFh5QVBKelBPb2tmMVNqSEt0UGpNaXUwd2x2ajdVaG1QdEtkR3hYeHp4VDN6cDFYNFZERGlYQnNmVGVqaWJ4OGlqeWdnRDJUb2lwU3ZqY0d6YlZaM1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzE5NzM3CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKcGVaTlFHQTV0bnFVLzhuY0VEUHZmOUxhZG9aZDN3U2tHczVWU0l0N3RXdkZ3a21MU050NDV0cmZwWHVoWlJsQlFGaE1wa0FZN3BSNVBDMWl2MjJURGc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

@@ -1,10 +1,10 @@
 {
-  "version": "0.4.82",
-  "notes": "- chore(release): bump launcher to v0.4.82 with 26.3 support\n- feat: add Minecraft 26.3 default and fallback support\n",
-  "pub_date": "2026-10-30T02:09:11Z",
+  "version": "0.4.83",
+  "notes": "- fix(fabric): upgrade default and 26.x fabric loader to 0.20.1 for Minecraft 26.3\n",
+  "pub_date": "2026-10-30T03:14:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFpBYmExNUVoUHlGM2NJeGtXdmM0TUFDTUZqYUtiUHpQKzlpQzZZS01QR3lLN1lVZCtNUXlrZi9Pa2RzNVAzNG83T3dPbmxvalQyM25Xd2FSeC9LL3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI2MTUxCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKNER4TmZ6NzFPL2lGMTlINzZFOVEySmZzU2kvWTZrZWE1T2VRVE4ySGZrYk1RSDkzUTBLd3IyQkRNenRGODgrT0tXL3RHeUxaTUphWG13SHZ2NjF4QVE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGZRU2Znc2dPM3dCbXNOWjFrZ0NieHpZL3Y0b1ZuSWIxQ1pLUE5hWHRqNmJUSXdPZm5sYzRDdlBmRmRFNTBBbHlJSlNTUHd6UGNFUHV4dVo3cDNCNWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMwMDk5CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKRWhXcGVPbjdQNmNndjE2dmdOdlJHTVhQNWJZSzNPdFh0QmtmTXBUaVoyNWtZMHNMRnhwbjROSmNmYnFFWVRKSWNBM2MvaW5YRmlpb2FXYSs4RTArRHc9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }

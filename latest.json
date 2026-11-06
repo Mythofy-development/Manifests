@@ -1,10 +1,10 @@
 {
-  "version": "0.4.83",
-  "notes": "- fix(fabric): upgrade default and 26.x fabric loader to 0.20.1 for Minecraft 26.3\n",
-  "pub_date": "2026-10-30T03:14:59Z",
+  "version": "0.4.84",
+  "notes": "- feat: split 26.3 to client-263 and auto-purge mismatched jars (v0.4.84)\n",
+  "pub_date": "2026-11-06T16:21:10Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UGZRU2Znc2dPM3dCbXNOWjFrZ0NieHpZL3Y0b1ZuSWIxQ1pLUE5hWHRqNmJUSXdPZm5sYzRDdlBmRmRFNTBBbHlJSlNTUHd6UGNFUHV4dVo3cDNCNWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzMwMDk5CWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKRWhXcGVPbjdQNmNndjE2dmdOdlJHTVhQNWJZSzNPdFh0QmtmTXBUaVoyNWtZMHNMRnhwbjROSmNmYnFFWVRKSWNBM2MvaW5YRmlpb2FXYSs4RTArRHc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL04rRWZ4UmN0UFJSNUFHWkhvbU9LOGxkdEFNTllaOE5rc2dzckp5L1RJR2w5L1cwYUNjN2FacE55Sm51NWZUNDZzRDNZVXNzcmlKaytTelliVUM0dVo4MCtMQ3BybFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTgyMDcwCWZpbGU6TXl0aG9meUNsaWVudC1zZXR1cC5leGUKMzJGNVFvMXV5Nk90aHViOXR5dWloMUpMNnVPTjFXcHJiUGlOdEJMU0d3WkpWV1FEU0tSM0NUV3NYL1pWSTdhdmNzYll6UmJsaDJhRW1XOC95SWNmQ1E9PQo=",
       "url": "https://github.com/Mythofy-development/Manifests/releases/download/launcher-stable/MythofyClient-setup.exe"
     }
   }
